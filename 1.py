@@ -1,3 +1,3 @@
-print("Hello WOrld!")
+print ("Hello, Python!")
 
-print("Hello WOrld 2!")
+print (3+4*5)
